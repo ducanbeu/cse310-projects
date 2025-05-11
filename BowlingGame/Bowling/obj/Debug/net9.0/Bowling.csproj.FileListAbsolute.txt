@@ -1,0 +1,12 @@
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/bin/Debug/net9.0/Bowling.deps.json
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/bin/Debug/net9.0/Bowling.dll
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/bin/Debug/net9.0/Bowling.pdb
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.AssemblyInfoInputs.cache
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.AssemblyInfo.cs
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.csproj.CoreCompileInputs.cache
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.sourcelink.json
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.dll
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/refint/Bowling.dll
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/Bowling.pdb
+/Users/duncan/Ducan/byui/classes/cse310-projects/BowlingGame/Bowling/obj/Debug/net9.0/ref/Bowling.dll
